@@ -2,7 +2,7 @@
 ## The mathematics behind the Machine Learning
  Machine Learning (ML) has emerged as a transformative technology with applications spanning various domains, from finance and healthcare to marketing and autonomous systems.
  Two fundamental tasks in ML are regression and classification, both of which involve predicting outcomes based on input data. 
- This paper delves into the mathematical foundations that underpin regression and classification models, exploring key concepts and algorithms.
+ This repository delves into the mathematical foundations that underpin regression and classification models, exploring key concepts and algorithms.
 
  ## Introduction:
 Machine Learning models are designed to learn patterns from data and make predictions or decisions without being explicitly programmed. 
